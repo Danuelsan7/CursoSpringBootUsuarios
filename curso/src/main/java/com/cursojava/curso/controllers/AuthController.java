@@ -32,4 +32,10 @@ public class AuthController {
        }
        return "FAIL";
     }
+
+    private String helloWorld(){
+        return "Hello World";
+    }
+
+    //Agrega Comentario prueba a AuthController
 }
